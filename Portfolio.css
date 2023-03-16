@@ -1,0 +1,44 @@
+h1, h3{font-family: 'Dancing Script', cursive;
+	font-size: bold;
+}
+
+.background {
+	
+	background-color: none;
+	background-image: url(./images/251397749_5535659283127112_1689774202390830612_n.jpg);
+background-repeat: repeat;
+/*image being centererd horizontally, alignment with top of the element vertically*/
+background-position: center;
+background-attachment: scroll;
+
+
+
+}
+h2 {
+	font-family: 'Dancing Script', cursive;
+	margin-bottom: mb-3;
+	color: white;
+}
+h5{
+font-family: 'Bebas Neue', cursive;
+color: white;
+}
+p {
+	font-family: 'Fira Sans Condensed', sans-serif;
+	color: white;
+}
+
+
+#navabar {
+	position: sticky;
+}
+
+footer {
+	padding: 0.7rem;
+
+}
+footer span {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
+
